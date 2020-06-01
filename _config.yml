@@ -1,11 +1,11 @@
 # Site settings
 author: Garett Levenhagen
-title: 
+title: My Journey
 header-img: img/home-bg.png
 email: garettlevenhagen@gmail.com
 copyright_name: Garett Levenhagen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A career change into Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gmlevenhagen
